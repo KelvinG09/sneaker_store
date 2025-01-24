@@ -1,4 +1,4 @@
-# sneakershop
+# sneaker_store
 
 A new Flutter project.
 
